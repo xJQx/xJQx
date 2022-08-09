@@ -96,13 +96,22 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%231572B6?style=flat-square&logo=bootstrap&logoColor=ffffff)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=A3DA8D)
+![Nest.js](https://img.shields.io/badge/-Nest.js-ab3354?style=flat-square&logo=nestjs&logoColor=E0234E)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-5ac4f2?style=flat-square&logo=mysql&logoColor=darkblue)
 
 ![Firebase](https://img.shields.io/badge/-Firebase-FF8E00?style=flat-square&logo=firebase)
 ![Django](https://camo.githubusercontent.com/cb7d7a5165a5cf5c0e664369796b50183fc99381a9f8d8349d755ac6741fd050/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3034333732383f7374796c653d666c61742d737175617265266c6f676f3d646a616e676f)
+
+<br>
+
+![C#](https://img.shields.io/badge/-C%20Sharp-0d9e70?style=flat-square&logo=csharp&logoColor=ffffff)
+![Blazor WASM](https://img.shields.io/badge/-Blazor%20WASM-purple?style=flat-square&logo=Blazor)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-5e077a?style=flat-square&logo=.net&logoColor=ffffff)
 
 
 
