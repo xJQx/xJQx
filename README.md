@@ -1,23 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jing Qiang</h1>
-<h3 align="center">I'm a passionate Business and Computer Science student from NTU, Singapore.</h3>
-
-<br>
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **<a href="https://github.com/xJQx/portfolio-website-public">Portfolio Website</a>**
-
-- 🌱 I’m currently learning about **<a href="https://www.mongodb.com/mern-stack">MERN Stack</a>**
-
-- 👯 I’m looking to collaborate on **Programming Projects**
-
-- ⚡ Fun fact: I love to play the **Piano** :musical_keyboard:
-
-<br>
-
-## Projects
+## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Projects
 <details>
   <summary style="font-size: 3rem; font-weight: bold">🧠 Algorithms & Data Structures </summary>
  <ul>
@@ -77,57 +58,111 @@
 
 <br>
 
-## 🛠 Languages and Tools:
+## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="20px" height="20px"/> Languages and Tools
 
+<details>
+  <summary><b>Languages</b></summary>
+  <dl>
+    <br/>
+    
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-1E5128?style=flat-square&logo=c&logoColor=ffffff)
+![C#](https://img.shields.io/badge/-C%20Sharp-0d9e70?style=flat-square&logo=csharp&logoColor=ffffff)
+![R](http://img.shields.io/badge/-R-3776AB?style=flat-square&logo=r&logoColor=ffffff)
 
-<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23F7DF1C.svg?style=flat-square&logo=typescript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+
+  </dl>
+</details>
+ 
+<details>
+  <summary><b>Frontend Web</b></summary>
+  <dl>
+    <br/>
+    
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23F7DF1C.svg?style=flat-square&logo=typescript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
+![React](https://img.shields.io/badge/-react.js-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+
+![Blazor WASM](https://img.shields.io/badge/-Blazor%20WASM-purple?style=flat-square&logo=Blazor)
+
+  </dl>
+</details>
+
+<details>
+  <summary><b>Backend Web</b></summary>
+  <dl>
+    <br/>
+    
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Nest.js](https://img.shields.io/badge/-Nest.js-ab3354?style=flat-square&logo=nestjs&logoColor=E0234E)
+
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-5e077a?style=flat-square&logo=.net&logoColor=ffffff)
+
+![Django](https://img.shields.io/badge/-Django-043728?style=flat-square&logo=django)
+  </dl>
+</details>
+
+<details>
+  <summary><b>Databases</b></summary>
+  <dl>
+    <br/>
+    
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-5ac4f2?style=flat-square&logo=mysql&logoColor=darkblue)
+
+  </dl>
+</details>
+
+<details>
+  <summary><b>Data Science / Data Analytics</b></summary>
+  <dl>
+    <br/>
+    
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ![R](http://img.shields.io/badge/-R-3776AB?style=flat-square&logo=r&logoColor=ffffff)
 ![Excel](https://img.shields.io/badge/Excel-green?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![Tableau](https://img.shields.io/badge/-Tableau-95D1CC?style=flat-square&logo=tableau)
-![postgresql](https://img.shields.io/badge/-postgresql-FFCA03?style=flat-square&logo=postgresql)
 
-<br>
+  </dl>
+</details>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%231572B6?style=flat-square&logo=bootstrap&logoColor=ffffff)
-
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=A3DA8D)
-![Nest.js](https://img.shields.io/badge/-Nest.js-ab3354?style=flat-square&logo=nestjs&logoColor=E0234E)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-5ac4f2?style=flat-square&logo=mysql&logoColor=darkblue)
-
+<details>
+  <summary><b>Deployment</b></summary>
+  <dl>
+    <br/>
+    
 ![Firebase](https://img.shields.io/badge/-Firebase-FF8E00?style=flat-square&logo=firebase)
-![Django](https://camo.githubusercontent.com/cb7d7a5165a5cf5c0e664369796b50183fc99381a9f8d8349d755ac6741fd050/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f2d3034333732383f7374796c653d666c61742d737175617265266c6f676f3d646a616e676f)
+
+  </dl>
+</details>
+
 
 <br>
 
-![C#](https://img.shields.io/badge/-C%20Sharp-0d9e70?style=flat-square&logo=csharp&logoColor=ffffff)
-![Blazor WASM](https://img.shields.io/badge/-Blazor%20WASM-purple?style=flat-square&logo=Blazor)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-5e077a?style=flat-square&logo=.net&logoColor=ffffff)
 
+
+## <img src="https://user-images.githubusercontent.com/59118459/169634505-a0855753-58ab-4367-96a7-4976041e21f6.gif" alt="nkoRave" width="20px" height="20px"/> Contact
+<p align="left">
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Toh_Jing_Qiang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tohjingqiang/)](https://www.linkedin.com/in/tohjingqiang/)&nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/-TOHJ0038@e.ntu.edu.sg-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:TOHJ0038@e.ntu.edu.sg)&nbsp;
+</p>
 
 
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
 <!-- ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) -->
 <!-- ![C++](http://img.shields.io/badge/-C++-225257?style=flat-square&logo=c%2B%2B&logoColor=ffffff) -->
-
-
-<br>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/tohjingqiang/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-</p>
-
-
 
