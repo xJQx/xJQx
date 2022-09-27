@@ -1,4 +1,19 @@
-## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Projects
+## Hi there! 👋
+
+This is Jing Qiang, an undergraduate student from NTU, Singapore.
+- 📚 Business and Computer Science sophomore (first class honours)
+- 💬 English(en) 中文(zh)
+- 🌐 Full-stack web (React + Django/NodeJS/NestJs + MongoDB) (C#, Blazor WASM, SQL)
+- 💕 Opensource
+- 🏆 Hackathon enthusiast
+- 👩‍💻 3 software engineer internship/part-time experience
+
+
+[<img src="https://github-readme-stats.vercel.app/api?username=xJQx&count_private=true&theme=rose_pine&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Jing Qiang's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=xJQx&layout=compact&langs_count=8&theme=rose_pine&role=OWNER,COLLABORATOR&hide=jupyter%20notebook" alt="Top Langs" height="185px" />](https://github.com/xJQx#gh-dark-mode-only)
+
+[<img src="https://github-readme-stats.vercel.app/api?username=xJQx&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Jing Qiang's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=xJQx&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&hide=jupyter%20notebook" alt="Top Langs" height="185px" />](https://github.com/xJQx#gh-light-mode-only)
+
+## <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="20px"/> Projects
 <details>
   <summary style="font-size: 3rem; font-weight: bold">🧠 Algorithms & Data Structures </summary>
  <ul>
@@ -56,7 +71,44 @@
 </dl>
 </details>
 
-<br>
+## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Experience
+
+<details>
+  <summary><b>Full Stack Web Developer - Tech Lead (Part-Time) | REST.COM.SG, Singapore | Jul 2022 - Present </b></summary>
+  <dl>
+   <br/>
+   
+      📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
+      - TypeScript, React.js, Nest.js, MySQL
+  </dl>
+</details>
+
+<details>
+  <summary><b>Full Stack Web Developer (Intern) | <a href="https://www.asprigroup.com/" target="_blank">ASPRI GROUP PTE. LTD., Singapore</a> | May 2022 - Jul 2022 (3 months) </b></summary>
+  <dl>
+   <br/>
+   
+      📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
+      - C#, Blazor WASM, ASP.NET Core, MySQL
+      
+  </dl>
+</details>
+
+<details>
+  <summary><b>Mobile Application Developer (Part-Time) | <a href="https://www.recgroup.com/en" target="_blank">REC Solar, California</a> | Nov 2021 - Jan 2021 (3 months)</b></summary>
+ <dl>
+   <br/>
+   
+   [REC Commendation Letter (Jing Qiang).pdf](https://github.com/xJQx/xJQx/files/9657482/REC.Commendation.Letter.Jing.Qiang.pdf)
+        
+        📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
+        - Microsoft PowerApps, Microsoft Power Automate
+   <br/>
+   
+   https://user-images.githubusercontent.com/59118459/169630820-7df42eef-2be3-4105-a22d-794ef6af302c.mp4
+   
+</dl>
+</details>
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="20px" height="20px"/> Languages and Tools
 
@@ -150,15 +202,13 @@
 </details>
 
 
-<br>
-
-
-
 ## <img src="https://user-images.githubusercontent.com/59118459/169634505-a0855753-58ab-4367-96a7-4976041e21f6.gif" alt="nkoRave" width="20px" height="20px"/> Contact
 <p align="left">
 
+[![Instagram Badge](https://img.shields.io/badge/-jingqiang2407-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jingqiang2407/)](https://www.instagram.com/jingqiang2407/)&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/-Toh_Jing_Qiang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tohjingqiang/)](https://www.linkedin.com/in/tohjingqiang/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-TOHJ0038@e.ntu.edu.sg-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:TOHJ0038@e.ntu.edu.sg)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-TOHJ0038@e.ntu.edu.sg-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:TOHJ0038@e.ntu.edu.sg)&nbsp;
+
 </p>
 
 
