@@ -4,14 +4,20 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
 - 📚 Business and Computer Science sophomore (first class honours)
 - 💬 English(en) 中文(zh)
 - 🌐 Full-stack web (React + Django/NodeJS/NestJs + MongoDB) (C#, Blazor WASM, SQL)
+- 🔗 Blockchain
+- 🌏 Metaverse
 - 💕 Opensource
-- 🏆 Hackathon enthusiast
+- 🏆 1 x Hackathon Champion
 - 👩‍💻 3 software engineer internship/part-time experience
 
 
 [<img src="https://github-readme-stats.vercel.app/api?username=xJQx&count_private=true&theme=rose_pine&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Jing Qiang's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=xJQx&layout=compact&langs_count=8&theme=rose_pine&role=OWNER,COLLABORATOR&hide=jupyter%20notebook" alt="Top Langs" height="185px" />](https://github.com/xJQx#gh-dark-mode-only)
 
 [<img src="https://github-readme-stats.vercel.app/api?username=xJQx&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Jing Qiang's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=xJQx&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&hide=jupyter%20notebook" alt="Top Langs" height="185px" />](https://github.com/xJQx#gh-light-mode-only)
+
+## <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="20px"/> Featured
+- <a href='https://github.com/xJQx' title='xJQx'> <img src='https://avatars.githubusercontent.com/u/47933193?v=4' height='20' width='20'/></a><a href='https://github.com/ztjhz' title='ztjhz'> <img src='https://avatars.githubusercontent.com/u/59118459?v=4' height='20' width='20'/></a><a href='https://github.com/ayaka14732' title='ayaka14732'> <img src='https://avatars.githubusercontent.com/u/68557794?v=4' height='20' width='20'/></a>  [**ayaka14732/ByteVid**](https://github.com/ayaka14732/ByteVid): _Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 1st place 🥇_
+- <a href='https://github.com/xJQx' title='xJQx'> <img src='https://avatars.githubusercontent.com/u/47933193?v=4' height='20' width='20'/></a> [**xJQx/NTU-Timetable-Generator**](https://github.com/xJQx/NTU-Timetable-Generator): _NTU class schedule convertor for calendar_
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="20px"/> Projects
 <details>
@@ -38,9 +44,8 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
 </details>
 
 <details>
-  <summary style="font-size: 3rem; font-weight: bold">📊 Data Science & Analysis </summary>
+  <summary style="font-size: 3rem; font-weight: bold">📊 Data Analytics </summary>
  <ul>
-  <li><a href="https://github.com/ztjhz/food-stock-demand-forecast" alt="food_forecast">Food Stock Demand Forecast</a></li>
   <li><a href="https://github.com/xJQx/Cyclistic-Riders-Analysis" alt="food_forecast">Cyclistic Riders Analysis</a></li>
  </ul>
 </details>
@@ -49,6 +54,7 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
   <summary style="font-size: 3rem; font-weight: bold">🤖 Machine Learning</summary>
  <ul>
   <li><a href="https://github.com/ztjhz/food-stock-demand-forecast" alt="food_forecast">Food Stock Demand Forecast</a></li>
+  <li><a href="https://github.com/ztjhz/SC1015-Project" alt="AniFame">AniFame</a></li>
  </ul>
 </details>
 
@@ -202,12 +208,12 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
 </details>
 
 
-## <img src="https://user-images.githubusercontent.com/59118459/169634505-a0855753-58ab-4367-96a7-4976041e21f6.gif" alt="nkoRave" width="20px" height="20px"/> Contact
-<p align="left">
+## <img src="https://user-images.githubusercontent.com/59118459/193049628-b56bba85-b2da-4d04-8bd1-7f79ea015feb.gif" alt="mewheart" width="20px" height="20px" /> Social
 
 [![Instagram Badge](https://img.shields.io/badge/-jingqiang2407-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jingqiang2407/)](https://www.instagram.com/jingqiang2407/)&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/-Toh_Jing_Qiang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tohjingqiang/)](https://www.linkedin.com/in/tohjingqiang/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-TOHJ0038@e.ntu.edu.sg-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:TOHJ0038@e.ntu.edu.sg)&nbsp;
+[![GitHub](https://img.shields.io/github/followers/xJQx?style=social&label=Follow)](https://github.com/xJQx)
 
 </p>
 
