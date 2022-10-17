@@ -117,94 +117,33 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="20px" height="20px"/> Languages and Tools
 
-<details>
-  <summary><b>Languages</b></summary>
-  <dl>
-    <br/>
     
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-1E5128?style=flat-square&logo=c&logoColor=ffffff)
 ![C#](https://img.shields.io/badge/-C%20Sharp-0d9e70?style=flat-square&logo=csharp&logoColor=ffffff)
-![R](http://img.shields.io/badge/-R-3776AB?style=flat-square&logo=r&logoColor=ffffff)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23F7DF1C.svg?style=flat-square&logo=typescript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-
-  </dl>
-</details>
- 
-<details>
-  <summary><b>Frontend Web</b></summary>
-  <dl>
-    <br/>
-    
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23F7DF1C.svg?style=flat-square&logo=typescript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-react.js-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-
-![Blazor WASM](https://img.shields.io/badge/-Blazor%20WASM-purple?style=flat-square&logo=Blazor)
-
-  </dl>
-</details>
-
-<details>
-  <summary><b>Backend Web</b></summary>
-  <dl>
-    <br/>
-    
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-ab3354?style=flat-square&logo=nestjs&logoColor=E0234E)
-
+![Blazor WASM](https://img.shields.io/badge/-Blazor%20WASM-purple?style=flat-square&logo=Blazor)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-5e077a?style=flat-square&logo=.net&logoColor=ffffff)
-
 ![Django](https://img.shields.io/badge/-Django-043728?style=flat-square&logo=django)
-  </dl>
-</details>
-
-<details>
-  <summary><b>Databases</b></summary>
-  <dl>
-    <br/>
-    
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FF8E00?style=flat-square&logo=firebase)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-5ac4f2?style=flat-square&logo=mysql&logoColor=darkblue)
-
-  </dl>
-</details>
-
-<details>
-  <summary><b>Data Science / Data Analytics</b></summary>
-  <dl>
-    <br/>
-    
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-
 ![R](http://img.shields.io/badge/-R-3776AB?style=flat-square&logo=r&logoColor=ffffff)
 ![Excel](https://img.shields.io/badge/Excel-green?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![Tableau](https://img.shields.io/badge/-Tableau-95D1CC?style=flat-square&logo=tableau)
-
-  </dl>
-</details>
-
-<details>
-  <summary><b>Deployment</b></summary>
-  <dl>
-    <br/>
-    
-![Firebase](https://img.shields.io/badge/-Firebase-FF8E00?style=flat-square&logo=firebase)
-
-  </dl>
-</details>
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
 ## <img src="https://user-images.githubusercontent.com/59118459/193049628-b56bba85-b2da-4d04-8bd1-7f79ea015feb.gif" alt="mewheart" width="20px" height="20px" /> Social
