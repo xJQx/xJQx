@@ -52,6 +52,8 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
 <details>
   <summary style="font-size: 3rem; font-weight: bold">🤖 Machine Learning</summary>
  <ul>
+  <li><a href="https://github.com/ayaka14732/ByteVid" alt="byte_vid">ByteVid</a></li>
+  <li><a href="https://github.com/xJQx/bc2406-project" alt="heart_detect">HeartDetect</a></li>
   <li><a href="https://github.com/ztjhz/food-stock-demand-forecast" alt="food_forecast">Food Stock Demand Forecast</a></li>
   <li><a href="https://github.com/ztjhz/SC1015-Project" alt="AniFame">AniFame</a></li>
  </ul>
@@ -79,12 +81,14 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
 ## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Experience
 
 <details>
-  <summary><b>Full Stack Web Developer - Tech Lead (Part-Time) | REST.COM.SG, Singapore | Jul 2022 - Present </b></summary>
+  <summary><b>Full Stack Software Engineer - Tech Lead (Part-Time) | REST.COM.SG, Singapore | Jul 2022 - Present </b></summary>
   <dl>
    <br/>
    
       📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
-      - TypeScript, React.js, Nest.js, MySQL
+      - NextJs, NestJs, MySQL, TypeScript
+      - Figma, StoryBook, ChakraUI
+      - Github Actions, Asana
   </dl>
 </details>
 
@@ -127,6 +131,7 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-react.js-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Nest.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-ab3354?style=flat-square&logo=nestjs&logoColor=E0234E)
@@ -144,6 +149,10 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
 ![Excel](https://img.shields.io/badge/Excel-green?style=flat-square&logo=microsoft&logoColor=ffffff)
 ![Tableau](https://img.shields.io/badge/-Tableau-95D1CC?style=flat-square&logo=tableau)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-eb5a44?style=flat-square&logo=figma&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-5ad1c3?style=flat-square&logo=chakra-ui&logoColor=white)
+
+
 
 
 ## <img src="https://user-images.githubusercontent.com/59118459/193049628-b56bba85-b2da-4d04-8bd1-7f79ea015feb.gif" alt="mewheart" width="20px" height="20px" /> Social
@@ -151,7 +160,9 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
 [![Instagram Badge](https://img.shields.io/badge/-jingqiang2407-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jingqiang2407/)](https://www.instagram.com/jingqiang2407/)&nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/-Toh_Jing_Qiang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tohjingqiang/)](https://www.linkedin.com/in/tohjingqiang/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-TOHJ0038@e.ntu.edu.sg-blue?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:TOHJ0038@e.ntu.edu.sg)&nbsp;
+[![Website](https://img.shields.io/badge/-Portfolio%20Website-blue?style=flat-square&logo=next.js&logoColor=white)](https://tohjingqiang.com)&nbsp;
 [![GitHub](https://img.shields.io/github/followers/xJQx?style=social&label=Follow)](https://github.com/xJQx)
+
 
 </p>
 
