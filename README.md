@@ -59,6 +59,7 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
   <summary style="font-size: 3rem; font-weight: bold">🤖 Machine Learning & Artifical Intelligence</summary>
  <ul>
   <li><a href="https://github.com/ayaka14732/ByteVid" alt="byte_vid">ayaka14732/ByteVid</a>: Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 1st place 🥇</li>
+  <li><a href="https://github.com/xJQx/bc2407-linkedin" alt="IntelliLink">xJQx/IntelliLink</a>: A Machine Learning Approach to Enhance User Experience and Engagement on LinkedIn</li>
   <li><a href="https://github.com/xJQx/bc2406-project" alt="heart_detect">xJQx/HeartDetect</a>: Machine Learning Models For Early Intervention Of Heart Disease, implemented in 2 stages</li>
   <li><a href="https://github.com/ztjhz/food-stock-demand-forecast" alt="food_forecast">ztjhz/food-stock-demand-forecast</a>: Time Series Forecasting to predict future food demand, optimise food inventory and reduce food wastage</li>
   <li><a href="https://github.com/ztjhz/SC1015-Project" alt="AniFame">ztjhz/AniFame</a>: Predict the success of an anime using regression and classification models</li>
@@ -91,11 +92,17 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
 </ul>
 </details>
 
+<details>
+  <summary style="font-size: 3rem; font-weight: bold">💻 Others</summary>
+ <ul>
+      <li><a href="https://github.com/xJQx/sc2002-fypms" alt="FYPMS">xJQx/FYPMS</a>: A Java-based application for managing final year projects (FYP) for students in tertiary institutions</li>
+</ul>
+</details>
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Experience
 
 <details>
-  <summary><b>Full Stack Software Engineer - Tech Lead (Part-Time) | REST.COM.SG, Singapore | Jul 2022 - Present </b></summary>
+  <summary><b>Full Stack Software Engineer - Tech Lead (Part-Time) | REST.COM.SG, Singapore | Jul 2022 - Dec 2022 </b></summary>
   <dl>
    <br/>
    
