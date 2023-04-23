@@ -102,7 +102,7 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
 ## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Experience
 
 <details>
-  <summary><b>Full Stack Software Engineer - Tech Lead (Part-Time) | REST.COM.SG, Singapore | Jul 2022 - Dec 2022 </b></summary>
+  <summary><b>Full Stack Software Engineer - Tech Lead (Part-Time) | REST.COM.SG, Singapore | Aug 2022 - Dec 2022 </b></summary>
   <dl>
    <br/>
    
@@ -147,6 +147,7 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/-R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
