@@ -4,7 +4,7 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
 - 📚 Business and Computer Science sophomore (first class honours)
 - 💬 English(en) 中文(zh)
 - 🌐 Full-stack web (ReactJs/NextJs + Django/NodeJS/NestJs + MongoDB) (C#, Blazor WASM, SQL)
-- 🔗 Blockchain (Scilla)
+- 🤖 Artificial Intelligence (AI)
 - 🌏 Metaverse
 - 💕 Opensource
 - 🏆 1 x Hackathon Champion
