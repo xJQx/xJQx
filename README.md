@@ -69,6 +69,7 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
   <summary style="font-size: 3rem; font-weight: bold">🌐 Web</summary>
  <dl>
       <dt>Full Stack</dt>
+      <dd><li><a href="https://github.com/xJQx/sc2006-feeditforward" alt="sc2006-feeditforward">xJQx/sc2006-feeditforward</a>: A community-driven initiative that connects the surplus food from local hawkers directly to families in need</li></dd>
       <dd><li><a href="https://github.com/xJQx/talk-a-tive" alt="talk-a-tive">xJQx/talk-a-tive</a>: Full-Stack Chatting App with MERN stack and Socket.io</li></dd>
       <dd><li><a href="https://github.com/xJQx/crypto-tracker" alt="crypto-tracker">xJQx/crypto-tracker</a>: Track Cryptocurrency prices</li></dd>
       <dt>Front end</dt>
