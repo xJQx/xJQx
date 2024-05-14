@@ -3,11 +3,10 @@
 This is Jing Qiang, an undergraduate student from NTU, Singapore.
 - 📚 Business and Computer Science Junior (first class honours)
 - 💬 English(en) 中文(zh)
-- 🌐 Full-stack web (ReactJs/NextJs + Django/NodeJS/NestJs + MongoDB) (C#, Blazor WASM, SQL)
+- 🌐 Full-stack web (ReactJs/NextJs + Django/NodeJS/NestJs/FastAPI + MongoDB) (C#, Blazor WASM, SQL)
 - 🤖 Artificial Intelligence (AI)
-- 💕 Opensource
 - 🏆 1 x Hackathon Champion
-- 👨🏻‍💻 5 software engineer internship/part-time experience
+- 👨🏻‍💻 6 software engineer internship/part-time experience
 
 
 [<img src="https://github-readme-stats.vercel.app/api?username=xJQx&count_private=true&theme=rose_pine&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Jing Qiang's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=xJQx&layout=compact&langs_count=8&theme=rose_pine&role=OWNER,COLLABORATOR&hide=jupyter%20notebook" alt="Top Langs" height="185px" />](https://github.com/xJQx#gh-dark-mode-only)
@@ -100,6 +99,15 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
 </details>
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Experience
+
+<details>
+  <summary><b>Software Engineer Summer Analyst (Intern) | <a href="https://www.linkedin.com/company/jpmorganchase/mycompany/" target="_blank">JPMorgan Chase & Co.</a> | June 2024 - Aug 2024 </b></summary>
+  <dl>
+   <br/>
+   
+      
+  </dl>
+</details>
 
 <details>
   <summary><b>AI Mobile Game Developer (Part-Time) | <a href="https://ai-simulator.com/" target="_blank">AI Simulator, Singapore</a> | May 2023 - Jul 2023 </b></summary>
