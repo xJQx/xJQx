@@ -1,16 +1,12 @@
 ## Hi there! 👋
 
-This is Jing Qiang, an undergraduate student from NTU, Singapore.
+This is **`Jing Qiang`**, an undergraduate student from Nanyang Techonological University, Singapore.
 - 📚 Business and Computer Science Junior (first class honours)
 - 💬 English(en) 中文(zh)
-- 🌐 Full-stack web (ReactJs/NextJs + Django/NodeJS/NestJs/FastAPI + MongoDB) (C#, Blazor WASM, SQL)
-- 🤖 Artificial Intelligence (AI)
+- 🌐 Full-stack web (ReactJs/NextJs + Django/NodeJS/NestJs/FastAPI + MongoDB/Firebase) (C#, Blazor WASM, SQL)
+- 🤖 Artificial Intelligence: Reinforcement Learning
 - 🏆 1 x Hackathon Champion
 - 👨🏻‍💻 6 software engineer internship/part-time experience
-
-
-[<img src="https://github-readme-stats.vercel.app/api?username=xJQx&count_private=true&theme=rose_pine&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Jing Qiang's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=xJQx&layout=compact&langs_count=8&theme=rose_pine&role=OWNER,COLLABORATOR&hide=jupyter%20notebook" alt="Top Langs" height="185px" />](https://github.com/xJQx#gh-dark-mode-only)
-[<img src="https://github-readme-stats.vercel.app/api?username=xJQx&count_private=true&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="Jing Qiang's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=xJQx&layout=compact&langs_count=8&role=OWNER,COLLABORATOR&hide=jupyter%20notebook" alt="Top Langs" height="185px" />](https://github.com/xJQx#gh-light-mode-only)
 
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="20px"/> Featured
@@ -19,12 +15,22 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
 - <a href='https://github.com/xJQx' title='xJQx'> <img src='https://avatars.githubusercontent.com/u/47933193?v=4' height='20' width='20'/></a><a href='https://github.com/ztjhz' title='ztjhz'> <img src='https://avatars.githubusercontent.com/u/59118459?v=4' height='20' width='20'/></a><a href='https://github.com/ayaka14732' title='ayaka14732'> <img src='https://avatars.githubusercontent.com/u/68557794?v=4' height='20' width='20'/></a>  [**ayaka14732/ByteVid**](https://github.com/ayaka14732/ByteVid): _Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 1st place 🥇_
 - <a href='https://github.com/xJQx' title='xJQx'> <img src='https://avatars.githubusercontent.com/u/47933193?v=4' height='20' width='20'/></a> [**xJQx/NTU-Timetable-Generator**](https://github.com/xJQx/NTU-Timetable-Generator): _NTU class schedule convertor for calendar_
 
+## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Work Experience
+
+- Jun 2024 - Aug 2024: Software Engineer Summer Analyst (Intern) | <a href="https://www.linkedin.com/company/jpmorganchase/mycompany/" target="_blank">JPMorgan Chase & Co.</a>
+- May 2023 - Jul 2023: AI Mobile Game Developer (Contract) | <a href="https://ai-simulator.com/" target="_blank">AI Simulator, Singapore</a> 
+- May 2023 - Jul 2023: Research Lab Assistant – Full Stack Web Developer (Part-Time) | <a href="https://www.hku.hk/" target="_blank">University of Hong Kong, Hong Kong</a> 
+- Aug 2022 - Dec 2022: Full Stack Software Engineer - Tech Lead (Part-Time) | REST.COM.SG, Singapore (Early-stage Start-up)
+- May 2022 - Jul 2022: Full Stack Web Developer (Intern) | <a href="https://www.asprigroup.com/" target="_blank">ASPRI GROUP PTE. LTD., Singapore</a>
+- Nov 2021 - Jan 2021: Mobile Application Developer (Part-Time) | <a href="https://www.recgroup.com/en" target="_blank">REC Solar, California</a>
+
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634505-a0855753-58ab-4367-96a7-4976041e21f6.gif" alt="nkoRave" width="20px" height="20px"/> Projects
 
 <details>
   <summary style="font-size: 3rem; font-weight: bold">🧠 Algorithms & Data Structures </summary>
  <ul>
+  <li><a href="https://github.com/xJQx/SC2079-MDP-Group11-Algorithms" alt="sc2079-mdp-algorithms">xJQx/SC2079-MDP-Group11-Algorithms</a>: The algorithm and algorithm simulator implementation of a Real-time Robotic Car System that autonomously traverse a known area (Multi-disciplinary Project). Rank 1/34.</li>
   <li><a href="https://github.com/xJQx/PathFinding-Visualizer" alt="pathfinding">xJQx/PathFinding-Visualizer</a>: Visualize pathfinding algorithms in the web</li>
   <li><a href="https://github.com/xJQx/Sorting-Visualizer" alt="sorting">xJQx/Sorting-Visualizer</a>: Visualize sorting algorithms in the web</li>
  </ul>
@@ -96,76 +102,6 @@ This is Jing Qiang, an undergraduate student from NTU, Singapore.
  <ul>
       <li><a href="https://github.com/xJQx/sc2002-fypms" alt="FYPMS">xJQx/FYPMS</a>: A Java-based application for managing final year projects (FYP) for students in tertiary institutions</li>
 </ul>
-</details>
-
-## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Experience
-
-<details>
-  <summary><b>Software Engineer Summer Analyst (Intern) | <a href="https://www.linkedin.com/company/jpmorganchase/mycompany/" target="_blank">JPMorgan Chase & Co.</a> | June 2024 - Aug 2024 </b></summary>
-  <dl>
-   <br/>
-   
-      
-  </dl>
-</details>
-
-<details>
-  <summary><b>AI Mobile Game Developer (Part-Time) | <a href="https://ai-simulator.com/" target="_blank">AI Simulator, Singapore</a> | May 2023 - Jul 2023 </b></summary>
-  <dl>
-   <br/>
-   
-      📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
-      - React Native, TypeScript, Three.js
-  </dl>
-</details>
-
-<details>
-  <summary><b>Research Lab Assistant – Full Stack Web Developer (Part-Time) | <a href="https://www.hku.hk/" target="_blank">University of Hong Kong, Hong Kong</a> | May 2023 - Jul 2023 </b></summary>
-  <dl>
-   <br/>
-   
-      📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
-      - NextJs, TypeScript, Flask
-  </dl>
-</details>
-
-<details>
-  <summary><b>Full Stack Software Engineer - Tech Lead (Part-Time) | REST.COM.SG, Singapore | Aug 2022 - Dec 2022 </b></summary>
-  <dl>
-   <br/>
-   
-      📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
-      - NextJs, NestJs, MySQL, TypeScript
-      - Figma, StoryBook, ChakraUI
-      - Github Actions, Asana
-  </dl>
-</details>
-
-<details>
-  <summary><b>Full Stack Web Developer (Intern) | <a href="https://www.asprigroup.com/" target="_blank">ASPRI GROUP PTE. LTD., Singapore</a> | May 2022 - Jul 2022 (3 months) </b></summary>
-  <dl>
-   <br/>
-   
-      📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
-      - C#, Blazor WASM, ASP.NET Core, MySQL
-      
-  </dl>
-</details>
-
-<details>
-  <summary><b>Mobile Application Developer (Part-Time) | <a href="https://www.recgroup.com/en" target="_blank">REC Solar, California</a> | Nov 2021 - Jan 2021 (3 months)</b></summary>
- <dl>
-   <br/>
-   
-   [REC Commendation Letter (Jing Qiang).pdf](https://github.com/xJQx/xJQx/files/9657482/REC.Commendation.Letter.Jing.Qiang.pdf)
-        
-        📚 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸:
-        - Microsoft PowerApps, Microsoft Power Automate
-   <br/>
-   
-   https://user-images.githubusercontent.com/59118459/169630820-7df42eef-2be3-4105-a22d-794ef6af302c.mp4
-   
-</dl>
 </details>
 
 
