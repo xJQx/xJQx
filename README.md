@@ -4,8 +4,8 @@ This is **`Jing Qiang`**, an undergraduate student from Nanyang Techonological U
 - 📚 Business and Computer Science Junior (first class honours)
 - 💬 English(en) 中文(zh)
 - 🌐 Full-stack web (ReactJs/NextJs + Django/NodeJS/NestJs/FastAPI + MongoDB/Firebase) (C#, Blazor WASM, SQL)
-- 🤖 Artificial Intelligence: Reinforcement Learning
-- 🏆 1 x Hackathon Champion
+- 🤖 Artificial Intelligence: Neural Networks and Reinforcement Learning
+- 🏆 1 x Hackathon Champion, 4 x Hackathon Top 3 Finalist
 - 👨🏻‍💻 6 software engineer internship/part-time experience
 
 
