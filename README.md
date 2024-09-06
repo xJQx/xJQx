@@ -1,18 +1,19 @@
 ## Hi there! 👋
 
 This is **`Jing Qiang`**, an undergraduate student from Nanyang Techonological University, Singapore.
-- 📚 Business and Computer Science Junior (first class honours)
+- 📚 Business and Computer Science Double Degree Senior (first class honours)
 - 💬 English(en) 中文(zh)
-- 🌐 Full-stack web (ReactJs/NextJs + Django/NodeJS/NestJs/FastAPI + MongoDB/Firebase) (C#, Blazor WASM, SQL)
+- 🌐 Full-stack web (ReactJs/NextJs + Django/NodeJS/NestJs/FastAPI + MongoDB/Firebase/SQL)
 - 🤖 Artificial Intelligence: Neural Networks and Reinforcement Learning
-- 🏆 1 x Hackathon Champion, 4 x Hackathon Top 3 Finalist
+- 🏆 1 x Hackathon Champion, 5 x Hackathon Top 3 Finalist
 - 👨🏻‍💻 6 software engineer internship/part-time experience
 
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif" alt="star3" width="20px"/> Featured
 
+- <a href='https://github.com/xJQx' title='xJQx'> <img src='https://avatars.githubusercontent.com/u/47933193?v=4' height='20' width='20'/></a><a href='https://github.com/Vinny0712' title='Vinny0712'> <img src='https://avatars.githubusercontent.com/u/90246036?v=4' height='20' width='20'/></a> [**Vinny0712/AiSL**](https://github.com/Vinny0712/AiSL): An AI-powered tool that turns videos with sign language into inclusive and exciting videos with auto-generated captions, auto-generated voice-over, and auto-generated emoji captions - 2024 TikTok TechJam Hackathon 2nd runner up in SEA region 🥉
 - <a href='https://github.com/xJQx' title='xJQx'> <img src='https://avatars.githubusercontent.com/u/47933193?v=4' height='20' width='20'/></a><a href='https://github.com/ztjhz' title='ztjhz'> <img src='https://avatars.githubusercontent.com/u/59118459?v=4' height='20' width='20'/></a> [**xJQx/zilkin**](https://github.com/xJQx/zilkin): A Scilla Contracts Deployment Tool featuring an interactive code generator and automatic contract deployment
-- <a href='https://github.com/xJQx' title='xJQx'> <img src='https://avatars.githubusercontent.com/u/47933193?v=4' height='20' width='20'/></a><a href='https://github.com/ztjhz' title='ztjhz'> <img src='https://avatars.githubusercontent.com/u/59118459?v=4' height='20' width='20'/></a><a href='https://github.com/ayaka14732' title='ayaka14732'> <img src='https://avatars.githubusercontent.com/u/68557794?v=4' height='20' width='20'/></a>  [**ayaka14732/ByteVid**](https://github.com/ayaka14732/ByteVid): _Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 1st place 🥇_
+- <a href='https://github.com/xJQx' title='xJQx'> <img src='https://avatars.githubusercontent.com/u/47933193?v=4' height='20' width='20'/></a><a href='https://github.com/ztjhz' title='ztjhz'> <img src='https://avatars.githubusercontent.com/u/59118459?v=4' height='20' width='20'/></a><a href='https://github.com/ayaka14732' title='ayaka14732'> <img src='https://avatars.githubusercontent.com/u/68557794?v=4' height='20' width='20'/></a>  [**ayaka14732/ByteVid**](https://github.com/ayaka14732/ByteVid): Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 1st place 🥇
 - <a href='https://github.com/xJQx' title='xJQx'> <img src='https://avatars.githubusercontent.com/u/47933193?v=4' height='20' width='20'/></a> [**xJQx/NTU-Timetable-Generator**](https://github.com/xJQx/NTU-Timetable-Generator): _NTU class schedule convertor for calendar_
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Work Experience
@@ -23,7 +24,6 @@ This is **`Jing Qiang`**, an undergraduate student from Nanyang Techonological U
 - Aug 2022 - Dec 2022: Full Stack Software Engineer - Tech Lead (Part-Time) | REST.COM.SG, Singapore (Early-stage Start-up)
 - May 2022 - Jul 2022: Full Stack Web Developer (Intern) | <a href="https://www.asprigroup.com/" target="_blank">ASPRI GROUP PTE. LTD., Singapore</a>
 - Nov 2021 - Jan 2021: Mobile Application Developer (Part-Time) | <a href="https://www.recgroup.com/en" target="_blank">REC Solar, California</a>
-
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634505-a0855753-58ab-4367-96a7-4976041e21f6.gif" alt="nkoRave" width="20px" height="20px"/> Projects
 
@@ -62,6 +62,7 @@ This is **`Jing Qiang`**, an undergraduate student from Nanyang Techonological U
 <details>
   <summary style="font-size: 3rem; font-weight: bold">🤖 Machine Learning & Artifical Intelligence</summary>
  <ul>
+   <li><a href="https://github.com/Vinny0712/AiSL" alt="aisl">Vinny0712/AiSL</a>: An AI-powered tool that turns videos with sign language into inclusive and exciting videos with auto-generated captions, auto-generated voice-over, and auto-generated emoji captions - 2024 TikTok TechJam Hackathon 2nd runner up in SEA region 🥉</li>
   <li><a href="https://github.com/ayaka14732/ByteVid" alt="byte_vid">ayaka14732/ByteVid</a>: Say goodbye to long and boring videos 👋 - MLDA Deep Learning Week Hackathon 1st place 🥇</li>
   <li><a href="https://github.com/xJQx/bc2407-linkedin" alt="IntelliLink">xJQx/IntelliLink</a>: A Machine Learning Approach to Enhance User Experience and Engagement on LinkedIn</li>
   <li><a href="https://github.com/xJQx/bc2406-project" alt="heart_detect">xJQx/HeartDetect</a>: Machine Learning Models For Early Intervention Of Heart Disease, implemented in 2 stages</li>
