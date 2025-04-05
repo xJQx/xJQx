@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 This is **`Jing Qiang`**, an undergraduate student from Nanyang Techonological University, Singapore.
-- 📚 Business and Computer Science Double Degree Senior (first class honours)
+- 📚 Business and Computer Science Double Degree (first class honours)
 - 💬 English(en) 中文(zh)
 - 🌐 Full-stack web (ReactJs/NextJs + Django/NodeJS/NestJs/FastAPI + MongoDB/Firebase/SQL)
 - 🤖 Artificial Intelligence: Neural Networks and Reinforcement Learning
@@ -18,9 +18,9 @@ This is **`Jing Qiang`**, an undergraduate student from Nanyang Techonological U
 
 ## <img src="https://user-images.githubusercontent.com/59118459/169634429-3f826467-8740-42d8-ab8b-1857cd405fd9.gif" alt="BugcatWork" width="20px" height="20px"/> Work Experience
 
+- Nov 2024 - May 2025: Forex Application Development Intern (Part-Time Intern) | <a href="https://www.linkedin.com/company/tencentglobal/mycompany/" target="_blank">Tencent</a>
 - Jun 2024 - Aug 2024: Software Engineer Summer Analyst (Intern) | <a href="https://www.linkedin.com/company/jpmorganchase/mycompany/" target="_blank">JPMorgan Chase & Co.</a>
 - May 2023 - Jul 2023: AI Mobile Game Developer (Contract) | <a href="https://ai-simulator.com/" target="_blank">AI Simulator, Singapore</a> 
-- May 2023 - Jul 2023: Research Lab Assistant – Full Stack Web Developer (Part-Time) | <a href="https://www.hku.hk/" target="_blank">University of Hong Kong, Hong Kong</a> 
 - Aug 2022 - Dec 2022: Full Stack Software Engineer - Tech Lead (Part-Time) | REST.COM.SG, Singapore (Early-stage Start-up)
 - May 2022 - Jul 2022: Full Stack Web Developer (Intern) | <a href="https://www.asprigroup.com/" target="_blank">ASPRI GROUP PTE. LTD., Singapore</a>
 - Nov 2021 - Jan 2021: Mobile Application Developer (Part-Time) | <a href="https://www.recgroup.com/en" target="_blank">REC Solar, California</a>
@@ -47,6 +47,7 @@ This is **`Jing Qiang`**, an undergraduate student from Nanyang Techonological U
 <details>
   <summary style="font-size: 3rem; font-weight: bold">🎮 Games</summary>
  <ul>
+  <li><a href="https://github.com/xJQx/sc4060-LifelineVR" alt="tictactoe">xJQx/sc4060-LifeLineVR</a>: An immersive educational VR experience designed to highlight the importance of red blood cells and constant blood donation through interactive, gamified storytelling.</li>
   <li><a href="https://github.com/xJQx/JavaScript/tree/main/TicTacToe" alt="tictactoe">xJQx/JavaScript/TicTacToe</a>: A tic-tac-toe game in the browser</li>
   <li><a href="https://github.com/xJQx/JavaScript/tree/main/Snake_Game" alt="snake_game">xJQx/JavaScript/Snake_Game</a>: A snake game in the browser</li>
  </ul>
@@ -139,6 +140,7 @@ This is **`Jing Qiang`**, an undergraduate student from Nanyang Techonological U
 ![Blazor](https://img.shields.io/badge/-Blazor-%235C2D91.svg?style=flat-square&logo=blazor&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 
 
